@@ -1,4 +1,4 @@
-# JanataHack-NLP-Hackathon
+# AnalyticsVidhya: JanataHack-NLP-Hackathon
 ### Sentiment Analysis for Steam Reviews
 Steam is a video game digital distribution service with a vast community of gamers 
 globally. A lot of gamers write reviews at the game page and have an option of choosing 
